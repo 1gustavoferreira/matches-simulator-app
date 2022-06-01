@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ferre/AndroidStudioProjects/MatchesSimulator/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ferre/AndroidStudioProjects/matches-simulator-app/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/ferre/AndroidStudioProjects/matches-simulator-app/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ferre/AndroidStudioProjects/matches-simulator-app/app/src/main/res/layout/match_item.xml" value="0.1" />
       </map>
     </option>
   </component>
